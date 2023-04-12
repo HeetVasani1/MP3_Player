@@ -1,0 +1,1 @@
+playlist.delete(0, tk.END)
